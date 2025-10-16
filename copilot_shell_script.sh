@@ -1,16 +1,11 @@
 
 #!/bin/bash
 
-# ========================================
 # COPILOT SHELL SCRIPT
 # Updates assignment name in config.env
-# ========================================
 
 # Display header
-echo "========================================"
 echo "        COPILOT SHELL SCRIPT"
-echo "========================================"
-echo ""
 
 # Prompt user for new assignment name
 read -p "Enter the new assignment name: " new_assignment
